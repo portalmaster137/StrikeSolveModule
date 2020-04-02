@@ -1,1 +1,14 @@
-{"id":"strikeSolve","title":"Strike/Solve","author":"porta","description":"","version":"","unityVersion":"2017.4.38f1"}
+{
+    "Author": "Porta",
+    "Compatibility": "Compatible",
+    "DefuserDifficulty": "VeryEasy",
+    "Description": "Press a button based on edgework #2buttons #text",
+    "ExpertDifficulty": "Easy",
+    "ModuleID": "strikeSolve",
+    "Name": "Strike/Solve",
+    "Origin": "Mods",
+    "Published": "2020-04-03",
+    "SortKey": "STRIKESOLVE",
+    "SteamID": "2045161243",
+    "Type": "Regular"
+  }
